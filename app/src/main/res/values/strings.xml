@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NameGame</string>
+    <string name="standard_mode">Standard Mode</string>
+    <string name="matt_mode">Matt Mode</string>
+    <string name="hint_mode">Hint Mode</string>
+    <string name="fetching_names">Fetching Names</string>
+    <string name="name_game">Name Game</string>
+    <string name="refresh">Refresh</string>
+</resources>
